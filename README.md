@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying in 42 school.<br>Also working on WoodExchange as web developper.
+Currently studying in 42 school.
 
 
 ## 🌐 Socials:
