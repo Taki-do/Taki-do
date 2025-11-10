@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++,GDScript**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/Tao-Malbeck-Portfolio-Jeux-1d4056f8f7e3809f9aa6c09189e26187?source=copy_link](https://www.notion.so/Tao-Malbeck-Portfolio-Jeux-1d4056f8f7e3809f9aa6c09189e26187?source=copy_link)
+- 👨‍💻 All of my projects are available here : [portfolio](https://www.notion.so/Tao-Malbeck-Portfolio-Jeux-1d4056f8f7e3809f9aa6c09189e26187?source=copy_link)
 
 - 📫 How to reach me **taomalbe@student.42perpignan.fr**
 
